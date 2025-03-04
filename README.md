@@ -1,7 +1,5 @@
 # 💻 Mohammadali Alimagham
 
-**Programmer and Researcher**  
-*MSE - Corrosion And Materials Protection*  
 
 [![Email](https://img.shields.io/badge/Email-alimagham@aut.ac.ir-blue)](mailto:alimagham@aut.ac.ir)  
 [![Phone](https://img.shields.io/badge/Phone-%2B98--9398533517-green)](tel:+989398533517)  
