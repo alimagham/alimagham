@@ -18,8 +18,6 @@ I started my journey with **[Tramian.ir](http://tramian.ir)** and later expanded
 - Python, C, C++, Bash (Linux)
 - Visual Basic, MATLAB
 
-I am passionate about developing innovative solutions for both **software** and **materials engineering** challenges, including **corrosion prevention** and **electrochemical research**.
-
 ---
 
 
