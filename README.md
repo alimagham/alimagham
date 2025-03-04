@@ -14,7 +14,7 @@ Experienced Software Developer with **12+ years** of expertise in developing hig
 
 I started my journey with **[Tramian.ir](http://tramian.ir)** and later expanded my skills with **[TravianDesign.ir](http://traviandesign.ir)**, specializing in system optimization and API development. I have a robust background across multiple languages and platforms, including:
 
-- PHP (CodeIgniter, WordPress)
+- PHP (CodeIgniter,Laravel,simple php, WordPress)
 - Python, C, C++, Bash (Linux)
 - Visual Basic, MATLAB
 
